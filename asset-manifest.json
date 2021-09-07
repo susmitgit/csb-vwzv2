@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://susmitgit.github.io/csb-vwzv2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://susmitgit.github.io/csb-vwzv2/static/js/main.02272c9a.chunk.js",
+    "main.js.map": "https://susmitgit.github.io/csb-vwzv2/static/js/main.02272c9a.chunk.js.map",
+    "runtime-main.js": "https://susmitgit.github.io/csb-vwzv2/static/js/runtime-main.eed4e2de.js",
+    "runtime-main.js.map": "https://susmitgit.github.io/csb-vwzv2/static/js/runtime-main.eed4e2de.js.map",
+    "static/js/2.3fc3612b.chunk.js": "https://susmitgit.github.io/csb-vwzv2/static/js/2.3fc3612b.chunk.js",
+    "static/js/2.3fc3612b.chunk.js.map": "https://susmitgit.github.io/csb-vwzv2/static/js/2.3fc3612b.chunk.js.map",
+    "index.html": "https://susmitgit.github.io/csb-vwzv2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://susmitgit.github.io/csb-vwzv2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3fc3612b.chunk.js.LICENSE.txt": "https://susmitgit.github.io/csb-vwzv2/static/js/2.3fc3612b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eed4e2de.js",
+    "static/js/2.3fc3612b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.02272c9a.chunk.js"
+  ]
+}
